@@ -1,0 +1,17 @@
+{
+    "landingPage": "/wp-admin/admin.php?page=wp-reviews-plugin-for-google%2Fsettings.php",
+    "features": {
+        "networking": true
+    },
+    "steps": [
+        {
+            "step": "login"
+        },
+        {
+            "step": "setSiteOptions",
+            "options": {
+                "trustindex-google-preview": "1"
+            }
+        }
+    ]
+}
